@@ -9,3 +9,10 @@
 Zgodnie z założeniem będzie to `LMS`, czyli `Learning Management System`.
 
 
+## Możliwości
+- 
+
+ 
+## Technologie
+-  .NET 8
+- 
