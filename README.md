@@ -10,9 +10,15 @@ Zgodnie z założeniem będzie to `LMS`, czyli `Learning Management System`.
 
 
 ## Możliwości
-- 
+- *TODO*
 
  
 ## Technologie
--  .NET 8
+- .NET 8
+- RabbitMQ
+-
+
+### Architektura
+- Web API
+- CQRS?
 - 
