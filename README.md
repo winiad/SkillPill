@@ -16,7 +16,7 @@ Zgodnie z założeniem będzie to `LMS`, czyli `Learning Management System`.
 ## Technologie
 - .NET 8
 - RabbitMQ
--
+- Mongo?
 
 ### Architektura
 - Web API
