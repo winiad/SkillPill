@@ -17,9 +17,9 @@ Zgodnie z założeniem będzie to `LMS`, czyli `Learning Management System`.
 - [ ] .NET 8
 - [ ] RabbitMQ
 - [ ] Mongo
-- [ ] aws?
+- [ ] AWS ()
 
 ## Architektura
 - Web API
 - CQRS?
-- 
+- Clean Architecture
