@@ -15,11 +15,14 @@ Zgodnie z założeniem będzie to `LMS`, czyli `Learning Management System`.
  
 ## Technologie
 - [ ] .NET 8
+- [ ] Serilog
+- [ ] Postgres
 - [ ] RabbitMQ
 - [ ] Mongo
-- [ ] AWS ()
+- [ ] AWS (CDN?)
 
 ## Architektura
 - Web API
 - CQRS?
 - Clean Architecture
+- 
