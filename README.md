@@ -10,9 +10,9 @@ Zgodnie z założeniem będzie to `LMS`, czyli `Learning Management System`.
 
 
 ## Możliwości
-- *TODO*
-- Upload nagrań
+- Upload/usuwanie nagrań
 - Komentarze
+-
 
  
 ## Technologie
@@ -22,10 +22,8 @@ Zgodnie z założeniem będzie to `LMS`, czyli `Learning Management System`.
 - [ ] RabbitMQ
 - [ ] Mongo
 - [ ] AWS
-- [ ] 
 
 ## Architektura
 - Web API
 - CQRS/CQS
 - Clean Architecture
-- 
