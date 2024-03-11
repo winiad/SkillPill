@@ -12,7 +12,7 @@ Zgodnie z założeniem będzie to `LMS`, czyli `Learning Management System`.
 ## Możliwości
 - Upload/usuwanie nagrań
 - Komentarze
--
+- Dodawanie pplików
 
  
 ## Technologie
