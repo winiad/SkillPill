@@ -10,10 +10,9 @@ Zgodnie z założeniem będzie to `LMS`, czyli `Learning Management System`.
 
 
 ## Możliwości
-- Upload/usuwanie nagrań
-- Komentarze
+- Dodawanie/usuwanie nagrań
+- Dodawanie/usuwanie komentarzy
 - Dodawanie/usuwanie plików
-
  
 ## Technologie
 - [ ] .NET 8
@@ -24,7 +23,7 @@ Zgodnie z założeniem będzie to `LMS`, czyli `Learning Management System`.
 - [ ] AWS
 
 ## Architektura
-- Web API
+- WebAPI
 - CQRS/CQS
 - Clean Architecture
 -
