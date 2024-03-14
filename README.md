@@ -13,6 +13,7 @@ Zgodnie z założeniem będzie to `LMS`, czyli `Learning Management System`.
 - Dodawanie/usuwanie nagrań
 - Dodawanie/usuwanie komentarzy
 - Dodawanie/usuwanie plików
+- Quizy?
  
 ## Technologie
 - [ ] .NET 8
@@ -20,10 +21,10 @@ Zgodnie z założeniem będzie to `LMS`, czyli `Learning Management System`.
 - [ ] Postgres
 - [ ] RabbitMQ
 - [ ] Mongo
-- [ ] AWS
+- [ ] Cloud?
 
 ## Architektura
 - WebAPI
 - CQRS/CQS
 - Clean Architecture
--
+- Event Driven?
