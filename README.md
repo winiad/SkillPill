@@ -13,8 +13,10 @@ Zgodnie z założeniem będzie to `LMS`, czyli `Learning Management System`.
 - Dodawanie/usuwanie nagrań
 - Dodawanie/usuwanie komentarzy
 - Dodawanie/usuwanie plików
-- Quizy?
- 
+- Paths?
+- Assessments?
+
+
 ## Technologie
 - [ ] .NET 8
 - [ ] Serilog
@@ -27,4 +29,5 @@ Zgodnie z założeniem będzie to `LMS`, czyli `Learning Management System`.
 - WebAPI
 - CQRS/CQS
 - Clean Architecture
+- Microservices?
 - Event Driven?
