@@ -13,8 +13,9 @@ Zgodnie z założeniem będzie to `LMS`, czyli `Learning Management System`.
 - Dodawanie/usuwanie nagrań
 - Dodawanie/usuwanie komentarzy
 - Dodawanie/usuwanie plików
-- Paths?
-- Assessments?
+- Ścieżki/Paths?
+- Testy/Assessments?
+- Przypominajki/Notifications?
 
 
 ## Technologie
