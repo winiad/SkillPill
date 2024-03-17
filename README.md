@@ -24,7 +24,7 @@ Zgodnie z założeniem będzie to `LMS`, czyli `Learning Management System`.
 - [ ] Postgres
 - [ ] RabbitMQ
 - [ ] Mongo
-- [ ] Cloud?
+- [ ] AWS/Azure?
 
 ## Architektura
 - WebAPI
@@ -32,3 +32,7 @@ Zgodnie z założeniem będzie to `LMS`, czyli `Learning Management System`.
 - Clean Architecture
 - Microservices?
 - Event Driven?
+- 
+
+## Frontend
+- React/Angular?
