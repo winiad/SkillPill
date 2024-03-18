@@ -35,4 +35,6 @@ Zgodnie z założeniem będzie to `LMS`, czyli `Learning Management System`.
 - 
 
 ## Frontend
-- React/Angular?
+- React/Angular/Svelte?
+
+## Docs
