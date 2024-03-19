@@ -16,6 +16,8 @@ Zgodnie z założeniem będzie to `LMS`, czyli `Learning Management System`.
 - Ścieżki/Paths?
 - Testy/Assessments?
 - Przypominajki/Notifications?
+  - e-mail
+
 
 
 ## Technologie
