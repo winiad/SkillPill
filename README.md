@@ -27,6 +27,7 @@ Zgodnie z założeniem będzie to `LMS`, czyli `Learning Management System`.
 - [ ] RabbitMQ
 - [ ] Mongo
 - [ ] AWS/Azure?
+- [ ] JWT Auth 
 
 ## Architektura
 - WebAPI
