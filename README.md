@@ -21,15 +21,20 @@ Zgodnie z założeniem będzie to `LMS`, czyli `Learning Management System`.
 
 
 ## Technologie
+* #### Core
 - [ ] .NET 8
 - [ ] Serilog
-- [ ] Postgres
 - [ ] RabbitMQ
+* #### DB
+- [ ] Postgres
 - [ ] Mongo
+* #### Instrumentalizacja
+- [ ] Docker
+- [ ] k8s?
+* #### Cloud
 - [ ] AWS/Azure?
-- [ ] JWT
-  - autoryzacja
-  - autentykacja
+* #### Auth~
+- [ ] JWT?
 
 ## Architektura
 - WebAPI
