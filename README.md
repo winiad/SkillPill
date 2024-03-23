@@ -12,12 +12,11 @@ Zgodnie z założeniem będzie to `LMS`, czyli `Learning Management System`.
 ## Możliwości
 - Dodawanie/usuwanie nagrań
 - Dodawanie/usuwanie komentarzy
-- Dodawanie/usuwanie plików
+- Dodawanie/usuwanie plików (zadania/rozwiązania)
 - Ścieżki/Paths?
 - Testy/Assessments?
 - Przypominajki/Notifications?
   - e-mail
-
 
 
 ## Technologie
@@ -31,6 +30,9 @@ Zgodnie z założeniem będzie to `LMS`, czyli `Learning Management System`.
 * #### Instrumentalizacja
 - [ ] Docker
 - [ ] k8s?
+* #### Monitoring
+- [ ] LPG?
+- [ ] Jaeger? 
 * #### Cloud
 - [ ] AWS/Azure?
 * #### Auth~
@@ -45,6 +47,6 @@ Zgodnie z założeniem będzie to `LMS`, czyli `Learning Management System`.
 - 
 
 ## Frontend
-- React/Angular/Svelte?
+- React/Angular?
 
 ## Docs
