@@ -26,12 +26,13 @@ Zgodnie z założeniem będzie to `LMS`, czyli `Learning Management System`.
 - [ ] RabbitMQ
 * #### DB
 - [ ] Postgres
-- [ ] Mongo
+- [ ] Mongo?
+- [ ] Redis?
 * #### Instrumentalizacja
 - [ ] Docker
 - [ ] k8s?
 * #### Monitoring
-- [ ] LPG?
+- [ ] Loki/Prometheus/Grafana?
 - [ ] Jaeger? 
 * #### Cloud
 - [ ] AWS/Azure?
