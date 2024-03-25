@@ -24,7 +24,7 @@ Zgodnie z założeniem będzie to `LMS`, czyli `Learning Management System`.
 - [ ] .NET 8
 - [ ] Serilog
 - [ ] RabbitMQ
-* #### DB
+* #### Baza danych
 - [ ] Postgres
 - [ ] Mongo?
 - [ ] Redis?
@@ -36,14 +36,16 @@ Zgodnie z założeniem będzie to `LMS`, czyli `Learning Management System`.
 - [ ] Jaeger? 
 * #### Cloud
 - [ ] AWS/Azure?
-* #### Auth~
+* #### Authentication
 - [ ] JWT?
+* #### Authorization
+- [ ] 
 
 ## Architektura
 - WebAPI
 - CQRS/CQS
 - Clean Architecture
-- Microservices?
+- Microservices
 - Event Driven?
 - 
 
