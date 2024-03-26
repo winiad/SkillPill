@@ -18,7 +18,6 @@ Zgodnie z założeniem będzie to `LMS`, czyli `Learning Management System`.
 - Przypominajki/Notifications?
   - e-mail
 
-
 ## Technologie
 * #### Core
 - [ ] .NET 8
@@ -39,7 +38,7 @@ Zgodnie z założeniem będzie to `LMS`, czyli `Learning Management System`.
 * #### Authentication
 - [ ] JWT?
 * #### Authorization
-- [ ] 
+- [ ] Built-in?
 
 ## Architektura
 - WebAPI
@@ -53,3 +52,4 @@ Zgodnie z założeniem będzie to `LMS`, czyli `Learning Management System`.
 - React/Angular?
 
 ## Docs
+- 
