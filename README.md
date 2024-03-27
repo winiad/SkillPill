@@ -16,7 +16,7 @@ Zgodnie z założeniem będzie to `LMS`, czyli `Learning Management System`.
 - Ścieżki/Paths?
 - Testy/Assessments?
 - Przypominajki/Notifications?
-  - e-mail
+  - e-mail (SendGrid?/MailGun)
 
 ## Technologie
 * #### Core
@@ -42,7 +42,7 @@ Zgodnie z założeniem będzie to `LMS`, czyli `Learning Management System`.
 
 ## Architektura
 - WebAPI
-- CQRS/CQS
+- CQRS?/CQS?
 - Clean Architecture
 - Microservices
 - Event Driven?
