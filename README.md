@@ -9,38 +9,47 @@
 Zgodnie z założeniem będzie to `LMS`, czyli `Learning Management System`.
 
 
-## Możliwości
+## Capabalities 
 - Dodawanie/usuwanie nagrań
 - Dodawanie/usuwanie komentarzy
 - Dodawanie/usuwanie plików (zadania/rozwiązania)
 - Ścieżki/Paths?
 - Testy/Assessments?
 - Przypominajki/Notifications?
-  - e-mail (SendGrid?/MailGun)
+  - e-mail (SendGrid?/MailGun?)
 
-## Technologie
+## Technologies
 * #### Core
 - [ ] .NET 8
 - [ ] Serilog
 - [ ] RabbitMQ
-* #### Baza danych
+
+* #### Databases
 - [ ] Postgres
 - [ ] Mongo?
 - [ ] Redis?
-* #### Instrumentalizacja
+
+* #### Instrumentalization
 - [ ] Docker
 - [ ] k8s?
+
 * #### Monitoring
 - [ ] Loki/Prometheus/Grafana?
 - [ ] Jaeger? 
+
 * #### Cloud
-- [ ] AWS/Azure?
+- [ ] AWS?/Azure? (nagrania)
+
 * #### Authentication
 - [ ] JWT?
+
 * #### Authorization
 - [ ] Built-in?
 
-## Architektura
+* #### Miscellaneous
+- 
+
+## Architecture
 - WebAPI
 - CQRS?/CQS?
 - Clean Architecture
