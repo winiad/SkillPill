@@ -16,7 +16,7 @@ Zgodnie z założeniem będzie to `LMS`, czyli `Learning Management System`.
 - Ścieżki/Paths?
 - Testy/Assessments?
 - Przypominajki/Notifications?
-  - e-mail (SendGrid?/MailGun?)
+  - e-mail 
 
 ## Technologies
 * #### Core
@@ -31,14 +31,14 @@ Zgodnie z założeniem będzie to `LMS`, czyli `Learning Management System`.
 
 * #### Instrumentalization
 - [ ] Docker
-- [ ] k8s?
+- [ ] Kubernetes
 
 * #### Monitoring
 - [ ] Loki/Prometheus/Grafana?
 - [ ] Jaeger? 
 
 * #### Cloud
-- [ ] AWS?/Azure? (nagrania)
+- [ ] AWS?/Azure? (wideo)
 
 * #### Authentication
 - [ ] JWT?
@@ -47,15 +47,18 @@ Zgodnie z założeniem będzie to `LMS`, czyli `Learning Management System`.
 - [ ] Built-in?
 
 * #### Miscellaneous
+- SendGrid?/MailGun? - e-mail notif
 - 
 
 ## Architecture
 - WebAPI
 - CQRS?/CQS?
-- Clean Architecture
+- Clean Architecture?
 - Microservices
 - Event Driven?
 - 
+
+## Tests
 
 ## Frontend
 - React/Angular?
