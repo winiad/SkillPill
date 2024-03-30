@@ -35,7 +35,8 @@ Zgodnie z założeniem będzie to `LMS`, czyli `Learning Management System`.
 
 * #### Monitoring
 - [ ] Loki/Prometheus/Grafana?
-- [ ] Jaeger? 
+- [ ] Jaeger?
+- what else? 
 
 * #### Cloud
 - [ ] AWS?/Azure? (wideo)
@@ -61,7 +62,9 @@ Zgodnie z założeniem będzie to `LMS`, czyli `Learning Management System`.
 ## Tests
 
 ## Frontend
-- React/Angular?
+- React?/Angular?
+- Svelte?
+- Typescript?
 
 ## Docs
 - 
