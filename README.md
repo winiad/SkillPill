@@ -13,10 +13,9 @@ Zgodnie z założeniem będzie to `LMS`, czyli `Learning Management System`.
 - Dodawanie/usuwanie nagrań
 - Dodawanie/usuwanie komentarzy
 - Dodawanie/usuwanie plików (zadania/rozwiązania)
-- Ścieżki/Paths?
-- Testy/Assessments?
-- Przypominajki/Notifications?
-  - e-mail 
+- Paths?
+- Assessments?
+- Notifications?
 
 ## Technologies
 * #### Core
@@ -57,14 +56,12 @@ Zgodnie z założeniem będzie to `LMS`, czyli `Learning Management System`.
 - Clean Architecture?
 - Microservices
 - Event Driven?
-- 
 
-## Tests
+## Tests?
 
 ## Frontend
 - React?/Angular?
 - Svelte?
-- Typescript?
 
 ## Docs
 - 
