@@ -10,7 +10,9 @@ Zgodnie z założeniem będzie to `LMS`, czyli `Learning Management System`.
 
 
 ## Capabalities 
-- Dodawanie/usuwanie nagrań
+- Creating courses
+  - todo
+- Adding/Removing videos
 - Dodawanie/usuwanie komentarzy
 - Dodawanie/usuwanie plików (zadania/rozwiązania)
 - Paths?
@@ -58,6 +60,7 @@ Zgodnie z założeniem będzie to `LMS`, czyli `Learning Management System`.
 - Event Driven?
 
 ## Tests?
+-xUnit?
 
 ## Frontend
 - React?/Angular?
