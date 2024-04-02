@@ -12,8 +12,9 @@ Zgodnie z założeniem będzie to `LMS`, czyli `Learning Management System`.
 ## Capabalities 
 - Creating courses
   - todo
-- Adding/Removing videos
-- Dodawanie/usuwanie komentarzy
+- Adding/removing videos
+- Adding/removing comments
+  - disqus?
 - Dodawanie/usuwanie plików (zadania/rozwiązania)
 - Paths?
 - Assessments?
