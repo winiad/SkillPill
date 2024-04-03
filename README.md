@@ -14,7 +14,6 @@ Zgodnie z założeniem będzie to `LMS`, czyli `Learning Management System`.
   - todo
 - Adding/removing videos
 - Adding/removing comments
-  - disqus?
 - Dodawanie/usuwanie plików (zadania/rozwiązania)
 - Paths?
 - Assessments?
@@ -36,9 +35,10 @@ Zgodnie z założeniem będzie to `LMS`, czyli `Learning Management System`.
 - [ ] Kubernetes
 
 * #### Monitoring
-- [ ] Loki/Prometheus/Grafana?
+- [ ] Grafana
+  - Loki?/Prometheus?
 - [ ] Jaeger?
-- what else? 
+- what else?
 
 * #### Cloud
 - [ ] AWS?/Azure? (wideo)
@@ -51,7 +51,7 @@ Zgodnie z założeniem będzie to `LMS`, czyli `Learning Management System`.
 
 * #### Miscellaneous
 - SendGrid?/MailGun? - e-mail notif
-- 
+- disqus?
 
 ## Architecture
 - WebAPI
