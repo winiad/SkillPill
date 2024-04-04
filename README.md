@@ -32,13 +32,13 @@ Zgodnie z założeniem będzie to `LMS`, czyli `Learning Management System`.
 
 * #### Instrumentalization
 - [ ] Docker
-- [ ] Kubernetes
+- [ ] Kubernetes?/Podman?
 
 * #### Monitoring
 - [ ] Grafana
   - Loki?/Prometheus?
 - [ ] Jaeger?
-- what else?
+- 
 
 * #### Cloud
 - [ ] AWS?/Azure? (wideo)
@@ -61,11 +61,11 @@ Zgodnie z założeniem będzie to `LMS`, czyli `Learning Management System`.
 - Event Driven?
 
 ## Tests?
--xUnit?
+- xUnit?
 
 ## Frontend
 - React?/Angular?
 - Svelte?
 
 ## Docs
-- 
+- docosaurus?
