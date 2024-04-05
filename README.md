@@ -36,12 +36,13 @@ Zgodnie z założeniem będzie to `LMS`, czyli `Learning Management System`.
 
 * #### Monitoring
 - [ ] Grafana
-  - Loki?/Prometheus?
+  - Loki?
+  - Prometheus?
 - [ ] Jaeger?
 - 
 
 * #### Cloud
-- [ ] AWS?/Azure? (wideo)
+- [ ] AWS?/Azure?/GCP? (wideo)
 
 * #### Authentication
 - [ ] JWT?
@@ -51,7 +52,7 @@ Zgodnie z założeniem będzie to `LMS`, czyli `Learning Management System`.
 
 * #### Miscellaneous
 - SendGrid?/MailGun? - e-mail notif
-- disqus?
+- disqus integration?
 
 ## Architecture
 - WebAPI
@@ -69,3 +70,4 @@ Zgodnie z założeniem będzie to `LMS`, czyli `Learning Management System`.
 
 ## Docs
 - docosaurus?
+- github pages?
