@@ -9,7 +9,7 @@
 Zgodnie z założeniem będzie to `LMS`, czyli `Learning Management System`.
 
 
-## Capabalities 
+## Capabilities 
 - Creating courses
   - todo
 - Adding/removing videos
@@ -70,4 +70,4 @@ Zgodnie z założeniem będzie to `LMS`, czyli `Learning Management System`.
 
 ## Docs
 - docosaurus?
-- github pages?
+- github wiki?
