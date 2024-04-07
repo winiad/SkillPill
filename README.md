@@ -16,7 +16,7 @@ Zgodnie z założeniem będzie to `LMS`, czyli `Learning Management System`.
 - Adding/removing comments
 - Dodawanie/usuwanie plików (zadania/rozwiązania)
 - Paths?
-- Assessments?
+  - consolidate similar courses
 - Notifications?
 
 ## Technologies
@@ -42,7 +42,7 @@ Zgodnie z założeniem będzie to `LMS`, czyli `Learning Management System`.
 - 
 
 * #### Cloud
-- [ ] AWS?/Azure?/GCP? (wideo)
+- [ ] AWS?/Azure?
 
 * #### Authentication
 - [ ] JWT?
@@ -66,8 +66,6 @@ Zgodnie z założeniem będzie to `LMS`, czyli `Learning Management System`.
 
 ## Frontend
 - React?/Angular?
-- Svelte?
 
 ## Docs
-- docosaurus?
 - github wiki?
