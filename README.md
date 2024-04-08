@@ -36,10 +36,9 @@ Zgodnie z założeniem będzie to `LMS`, czyli `Learning Management System`.
 
 * #### Monitoring
 - [ ] Grafana
-  - Loki?
-  - Prometheus?
+  - [ ] Loki?
+  - [ ] Prometheus?
 - [ ] Jaeger?
-- 
 
 * #### Cloud
 - [ ] AWS?/Azure?
@@ -63,6 +62,7 @@ Zgodnie z założeniem będzie to `LMS`, czyli `Learning Management System`.
 
 ## Tests?
 - xUnit?
+- NUnit?
 
 ## Frontend
 - React?/Angular?
