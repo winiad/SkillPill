@@ -43,10 +43,8 @@ Zgodnie z założeniem będzie to `LMS`, czyli `Learning Management System`.
 * #### Cloud
 - [ ] AWS?/Azure?
 
-* #### Authentication
+* #### Authentication & Authorization
 - [ ] JWT?
-
-* #### Authorization
 - [ ] Built-in?
 
 * #### Miscellaneous
