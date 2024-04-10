@@ -61,6 +61,8 @@ Zgodnie z założeniem będzie to `LMS`, czyli `Learning Management System`.
 ## Tests?
 - xUnit?
 - NUnit?
+- Integration
+- End-to-end
 
 ## Frontend
 - React?/Angular?
