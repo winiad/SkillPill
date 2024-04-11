@@ -11,12 +11,12 @@ Zgodnie z założeniem będzie to `LMS`, czyli `Learning Management System`.
 
 ## Capabilities 
 - Creating courses
-  - todo
+  - modifying ToC
 - Adding/removing videos
 - Adding/removing comments
 - Dodawanie/usuwanie plików (zadania/rozwiązania)
 - Paths?
-  - consolidate similar courses
+  - consolidate similar courses?
 - Notifications?
 
 ## Technologies
@@ -60,9 +60,6 @@ Zgodnie z założeniem będzie to `LMS`, czyli `Learning Management System`.
 
 ## Tests?
 - xUnit?
-- NUnit?
-- Integration
-- End-to-end
 
 ## Frontend
 - React?/Angular?
