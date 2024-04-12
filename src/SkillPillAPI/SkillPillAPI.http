@@ -1,0 +1,6 @@
+@SkillPillAPI_HostAddress = http://localhost:5271
+
+GET {{SkillPillAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
