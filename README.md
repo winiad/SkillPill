@@ -14,9 +14,10 @@ Zgodnie z założeniem będzie to `LMS`, czyli `Learning Management System`.
   - modifying ToC
 - Adding/removing videos
 - Adding/removing comments
-- Dodawanie/usuwanie plików (zadania/rozwiązania)
+- Adding/Removing files (tasks/solutions)
+- Posts for course creators?
 - Paths?
-  - consolidate similar courses?
+  - consolidate similar courses into a track?
 - Notifications?
 
 ## Technologies
@@ -49,7 +50,7 @@ Zgodnie z założeniem będzie to `LMS`, czyli `Learning Management System`.
 
 * #### Miscellaneous
 - SendGrid?/MailGun? - e-mail notif
-- disqus integration?
+- disqus integration?/on-prem comments/posts
 
 ## Architecture
 - WebAPI
