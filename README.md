@@ -28,8 +28,11 @@ Zgodnie z założeniem będzie to `LMS`, czyli `Learning Management System`.
 
 * #### Databases
 - [ ] Postgres
+  - users only?
 - [ ] Mongo?
+  - comments/posts?
 - [ ] Redis?
+  - frequently accessed vods?
 
 * #### Instrumentalization
 - [ ] Docker
