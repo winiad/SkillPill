@@ -40,9 +40,11 @@ Zgodnie z założeniem będzie to `LMS`, czyli `Learning Management System`.
 
 * #### Monitoring
 - [ ] Grafana
-  - [ ] Loki?
-  - [ ] Prometheus?
-- [ ] Jaeger?
+  - grafana cloud?
+- [ ] Loki?
+- [ ] Prometheus?
+- [ ] Jaeger?/Tempo?
+
 
 * #### Cloud
 - [ ] AWS?/Azure?
