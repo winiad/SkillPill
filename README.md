@@ -6,7 +6,7 @@
   
 </div>
 
-Zgodnie z założeniem będzie to `LMS`, czyli `Learning Management System`.
+`LMS` = `Learning Management System` made in a hybrid fhion - mix of on-premise and cloud solutions - as to maximize cost effecitveness.
 
 
 ## Capabilities 
@@ -69,6 +69,7 @@ Zgodnie z założeniem będzie to `LMS`, czyli `Learning Management System`.
 
 ## Frontend
 - React?/Angular?
+- VueJS?
 
 ## Docs
 - github wiki?
