@@ -6,7 +6,7 @@
   
 </div>
 
-`LMS` = `Learning Management System` made in a hybrid fhion - mix of on-premise and cloud solutions - as to maximize cost effecitveness.
+`LMS` = `Learning Management System` made in a hybrid fashion - mix of on-premise and cloud solutions - maximizing cost effectiveness.
 
 
 ## Capabilities 
@@ -73,3 +73,5 @@
 
 ## Docs
 - github wiki?
+- docs generator/page?
+
