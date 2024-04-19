@@ -43,6 +43,7 @@
   - grafana cloud?
 - [ ] Loki?
 - [ ] Prometheus?
+  - optimize hard
 - [ ] Jaeger?/Tempo?
 
 
@@ -54,7 +55,7 @@
 - [ ] Built-in?
 
 * #### Miscellaneous
-- SendGrid?/MailGun? - e-mail notif
+- SendGrid?/MailGun?/? - e-mail notif
 - disqus integration?/on-prem comments/posts
 
 ## Architecture
@@ -70,8 +71,9 @@
 ## Frontend
 - React?/Angular?
 - VueJS?
+- Svelte?
 
 ## Docs
 - github wiki?
 - docs generator/page?
-
+- Docusaurus?
