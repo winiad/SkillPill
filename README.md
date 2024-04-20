@@ -6,7 +6,10 @@
   
 </div>
 
-`LMS` = `Learning Management System` made in a hybrid fashion - mix of on-premise and cloud solutions - maximizing cost effectiveness.
+`LMS` = `Learning Management System` by default in a hybrid fashion - mix of on-premise and cloud solutions - maximizing cost effectiveness with the options of:
+- full on-premise setup 
+- and eventually full cloud setup 
+depending on the needs.
 
 
 ## Capabilities 
@@ -31,6 +34,7 @@
   - users only?
 - [ ] Mongo?
   - comments/posts?
+  - logs?
 - [ ] Redis?
   - frequently accessed vods?
 
