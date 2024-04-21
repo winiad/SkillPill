@@ -41,6 +41,7 @@ depending on the needs.
 * #### Instrumentalization
 - [ ] Docker
 - [ ] Kubernetes?/Podman?
+- [ ] Terraform?
 
 * #### Monitoring
 - [ ] Grafana
