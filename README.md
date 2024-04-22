@@ -28,6 +28,7 @@ depending on the needs.
 - [ ] .NET 8
 - [ ] Serilog
 - [ ] RabbitMQ
+- [ ] Autofac?
 
 * #### Databases
 - [ ] Postgres
@@ -50,7 +51,6 @@ depending on the needs.
 - [ ] Prometheus?
   - optimize hard
 - [ ] Jaeger?/Tempo?
-
 
 * #### Cloud
 - [ ] AWS?/Azure?
