@@ -15,6 +15,7 @@ depending on the needs.
 ## Capabilities 
 - Creating courses
   - modifying ToC
+    - structuring chapters
 - Adding/removing videos
 - Adding/removing comments
 - Adding/Removing files (tasks/solutions)
