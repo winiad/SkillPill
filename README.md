@@ -37,7 +37,7 @@ depending on the needs.
 - [ ] Mongo?
   - comments/posts?
   - logs?
-- [ ] Redis?
+- [ ] Redis?/Valkey?(licensing change)
   - frequently accessed vods?
 
 * #### Instrumentalization
