@@ -34,6 +34,7 @@ depending on the needs.
 * #### Databases
 - [ ] Postgres
   - users only?
+  - events?
 - [ ] Mongo?
   - comments/posts?
   - logs?
