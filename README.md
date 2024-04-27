@@ -19,7 +19,7 @@ depending on the needs.
 - Adding/removing videos
 - Adding/removing comments globally for admins as well as course owners and/or post(article) owners
 - Adding/Removing files (tasks/solutions)
-- Posts for course creators?
+- Posts within the courses for course creators?
 - Paths?
   - consolidate similar courses into a track?
 - Notifications?
@@ -43,7 +43,7 @@ depending on the needs.
 
 * #### Instrumentalization
 - [ ] Docker
-- [ ] Kubernetes?/Podman?
+- [ ] Kubernetes?
 - [ ] Terraform?
 
 * #### Monitoring
