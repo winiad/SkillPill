@@ -29,7 +29,7 @@ depending on the needs.
 - [ ] .NET 8
 - [ ] Serilog
 - [ ] RabbitMQ
-- [ ] Autofac?
+- [ ] Autofac?/Built-in DI?
 
 * #### Databases
 - [ ] Postgres
