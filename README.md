@@ -29,6 +29,7 @@ depending on the needs.
 - [ ] .NET 8
 - [ ] Serilog
 - [ ] RabbitMQ
+  - [ ] NServiceBus?
 - [ ] Autofac?/AutoMapper?/Built-in DI?
 
 * #### Databases
