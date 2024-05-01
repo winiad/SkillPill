@@ -36,23 +36,23 @@ depending on the needs.
 - [ ] Postgres
   - users only?
   - events?
-- [ ] Mongo?
+- [ ] no-sql?/Mongo?
   - comments/posts?
   - logs?
 - [ ] Redis?/Valkey?(licensing change)
-  - frequently accessed vods?
+  - frequently accessed vods and/or blogs?
 
 * #### Instrumentalization
 - [ ] Docker
 - [ ] Kubernetes?
 - [ ] Terraform?
+- [ ] 
 
 * #### Monitoring
 - [ ] Grafana
   - grafana cloud?
 - [ ] Loki?
 - [ ] Prometheus?
-  - optimize hard
 - [ ] Jaeger?/Tempo?
 
 * #### Cloud
