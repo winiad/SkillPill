@@ -23,6 +23,8 @@ depending on the needs.
 - Paths?
   - consolidate similar courses into a track?
 - Notifications?
+  - by e-mail?
+  - in-app?
 
 ## Technologies
 * #### Core
