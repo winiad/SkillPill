@@ -43,6 +43,7 @@ depending on the needs.
   - logs?
 - [ ] Redis?/Valkey?(licensing change)
   - frequently accessed vods and/or blogs?
+- [ ] time-series db for prometheus/loki?
 
 * #### Instrumentalization
 - [ ] Docker
